@@ -185,9 +185,10 @@ p {
     grid-template-columns: repeat(2,1fr);
     
 }
-.rating{
-  
+.product-btn{
+   text-align: center; 
 }
+
 
 
 
